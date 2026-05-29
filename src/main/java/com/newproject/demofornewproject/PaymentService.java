@@ -12,6 +12,7 @@ public class PaymentService {
     public void pay()
     {
         System.out.println("Paying");
+        System.out.println("once again want to pay");
     }
 
     @PostConstruct

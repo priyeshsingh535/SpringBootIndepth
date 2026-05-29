@@ -6,7 +6,7 @@ import jakarta.annotation.PreDestroy;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
-@Service
+
 public class PaymentService {
 
     public void pay()
